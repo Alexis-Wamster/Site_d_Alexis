@@ -1,0 +1,16 @@
+#bloc_accueil{
+	top: 100px;
+	height: 500px;
+	background: linear-gradient(70deg, black, #2b255d 10% 50%, #6756be 30% 70%, #db91b7 50% 90%, #dc7bbf);
+}
+
+#test{
+	top: 100px;
+	height: 500px;
+	background: linear-gradient(70deg, black, #2b255d 10% 50%, #6756be 30% 70%, #db91b7 50% 90%, #dc7bbf);
+}
+
+h1{
+	max-width: 600px;
+	border: solid black 2px;
+}
